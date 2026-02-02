@@ -1,0 +1,14 @@
+{
+  "name": "instagram-follow-package",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "run": "node run.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "puppeteer-core": "^24.16.1",
+    "@sparticuz/chromium": "^123.0.0",
+    "chalk": "^4.1.2"
+  }
+}
