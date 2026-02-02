@@ -2,7 +2,6 @@
   "name": "instagram-follow-package",
   "version": "1.0.0",
   "description": "API de pacotes de seguidores Instagram",
-  "type": "module",
   "main": "script.js",
   "license": "MIT",
   "scripts": {
