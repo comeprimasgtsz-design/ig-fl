@@ -4,7 +4,7 @@ const fs = require('fs').promises;
 const axios = require('axios');
 const { SocksProxyAgent } = require('socks-proxy-agent');
 
-const targetUsername = 'comedor_di_primas';
+const targetUsername = 'luanzin.fe';
 const followerCount = 500;
 const accountsFilePath = './accounts.txt';
 
